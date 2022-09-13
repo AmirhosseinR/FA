@@ -7,10 +7,10 @@
 github: [metadata]
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Site Settings
-locale                   : "en-Us" # fa-IR , en-Us
+locale                   : "fa-IR" # fa-IR , en-Us
 title                    : ""
 title_separator          : "|"
-name                     : "Amirhossein Rostami"
+name                     : "امیرحسین رستمی"
 description              : "Personal webpage."
 url                      : "https://AmirhosseinR.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -19,7 +19,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 logo                     : "/assets/images/home.png"
 words_per_minute         : 200
-date_format              : "%Y-%b-%d"
+date_format              : "%Y-%m-%d"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amirhossein Rostami"
+  name             : "امیرحسین رستمی"
   avatar           : "/assets/images/Me.jpg"
-  bio              : "I still have a lot to learn!"
-  location         : "Germany"
+  bio              : "پیشرفت‌های بزرگ با گام‌های کوچک شروع می‌شوند"
+  location         : "آلمان"
   email            : amirhossein.rostami[at-sign]tu-dresden[dot]de
   uri              :
   bitbucket        :
@@ -113,7 +113,7 @@ author:
   github           : AmirhosseinR
   google_plus      :
   keybase          :
-  instagram        : realmrbit
+  instagram        : realdaneshozendegi
   lastfm           :
   linkedin         : amirhossein-rostami
   pinterest        :
@@ -288,7 +288,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: #  true
       comments: # true
       share: true
       related: true
